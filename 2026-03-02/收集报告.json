@@ -1,14 +1,14 @@
 {
   "date": "2026-03-02",
-  "time": "20:57",
+  "time": "20:58",
   "news_count": 5,
   "files_created": 6,
   "news_sources": [
-    "Microsoft Dev Blog",
-    "Bloomberg",
     "华为官网",
+    "Tesla Blog",
+    "Microsoft Dev Blog",
     "TechCrunch",
-    "Tesla Blog"
+    "Bloomberg"
   ],
   "git_push_success": true
 }
