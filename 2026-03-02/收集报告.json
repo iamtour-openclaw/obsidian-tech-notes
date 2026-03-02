@@ -4,11 +4,11 @@
   "news_count": 5,
   "files_created": 6,
   "news_sources": [
-    "华为官网",
-    "Tesla Blog",
+    "Bloomberg",
     "Microsoft Dev Blog",
     "TechCrunch",
-    "Bloomberg"
+    "华为官网",
+    "Tesla Blog"
   ],
   "git_push_success": true
 }
