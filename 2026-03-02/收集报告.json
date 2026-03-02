@@ -1,23 +1,14 @@
 {
   "date": "2026-03-02",
-  "time": "20:51",
+  "time": "20:55",
   "news_count": 5,
   "files_created": 6,
-  "file_list": [
-    "C:\\Users\\Tour\\.openclaw\\workspace\\codes-public\\obsidian-tech-notes\\2026-03-02\\OpenAI_发布新一代_GPT-5_模型.md",
-    "C:\\Users\\Tour\\.openclaw\\workspace\\codes-public\\obsidian-tech-notes\\2026-03-02\\华为发布全新_HarmonyOS_50.md",
-    "C:\\Users\\Tour\\.openclaw\\workspace\\codes-public\\obsidian-tech-notes\\2026-03-02\\特斯拉推出全自动驾驶_V12.md",
-    "C:\\Users\\Tour\\.openclaw\\workspace\\codes-public\\obsidian-tech-notes\\2026-03-02\\微软_Copilot_新增代码生成功能.md",
-    "C:\\Users\\Tour\\.openclaw\\workspace\\codes-public\\obsidian-tech-notes\\2026-03-02\\苹果_Vision_Pro_2_开发中.md",
-    "C:\\Users\\Tour\\.openclaw\\workspace\\codes-public\\obsidian-tech-notes\\2026-03-02\\📰 科技新闻索引.md"
-  ],
   "news_sources": [
-    "Tesla Blog",
     "华为官网",
     "TechCrunch",
     "Microsoft Dev Blog",
-    "Bloomberg"
+    "Bloomberg",
+    "Tesla Blog"
   ],
-  "status": "success",
   "git_push_success": true
 }
