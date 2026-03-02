@@ -1,6 +1,6 @@
 {
   "date": "2026-03-02",
-  "time": "07:48",
+  "time": "19:00",
   "news_count": 5,
   "files_created": 6,
   "file_list": [
@@ -12,10 +12,10 @@
     "C:\\Users\\Tour\\.openclaw\\workspace\\codes-public\\obsidian-tech-notes\\2026-03-02\\📰 科技新闻索引.md"
   ],
   "news_sources": [
-    "Bloomberg",
+    "Tesla Blog",
     "华为官网",
     "TechCrunch",
-    "Tesla Blog",
+    "Bloomberg",
     "Microsoft Dev Blog"
   ],
   "status": "success",
