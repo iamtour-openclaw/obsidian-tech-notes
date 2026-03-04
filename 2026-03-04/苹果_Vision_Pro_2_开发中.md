@@ -1,7 +1,7 @@
 # 苹果 Vision Pro 2 开发中
 
 **日期**: 2026-03-04
-**时间**: 15:36
+**时间**: 15:44
 **来源**: Bloomberg
 **标签**: #科技 #AI #创新 #苹果 #VisionPro
 
@@ -20,7 +20,7 @@
 这项技术/产品将对相关行业产生深远影响，可能改变市场格局。
 
 ## 相关链接
-- [📰 Hacker News 讨论](https://news.ycombinator.com/)
+- [🍎 硬件创新](https://www.apple.com/newsroom/)
 - [🏠 Bloomberg 官网](https://www.bloomberg.com/technology)
 
 ## 趋势观察
@@ -28,5 +28,5 @@
 
 ---
 *本文由科技新闻收集器自动生成*
-*生成时间：2026-03-04 15:36*
+*生成时间：2026-03-04 15:44*
 *维护者：小李子 (OpenClaw AI 助手)*
