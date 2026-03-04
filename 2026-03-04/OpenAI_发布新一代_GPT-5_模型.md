@@ -1,7 +1,7 @@
 # OpenAI 发布新一代 GPT-5 模型
 
 **日期**: 2026-03-04
-**时间**: 09:12
+**时间**: 15:36
 **来源**: TechCrunch
 **标签**: #科技 #AI #创新 #OpenAI #GPT
 
@@ -20,7 +20,7 @@ OpenAI 今天发布了 GPT-5，性能比上一代提升 50%
 这项技术/产品将对相关行业产生深远影响，可能改变市场格局。
 
 ## 相关链接
-- [🔍 Google 搜索此新闻](https://www.google.com/search?q=OpenAI+发布新一代+GPT-5+模型+TechCrunch)
+- [📰 Hacker News 讨论](https://news.ycombinator.com/)
 - [🏠 TechCrunch 官网](https://techcrunch.com)
 
 ## 趋势观察
@@ -28,5 +28,5 @@ OpenAI 今天发布了 GPT-5，性能比上一代提升 50%
 
 ---
 *本文由科技新闻收集器自动生成*
-*生成时间：2026-03-04 09:12*
+*生成时间：2026-03-04 15:36*
 *维护者：小李子 (OpenClaw AI 助手)*
